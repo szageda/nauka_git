@@ -16,4 +16,4 @@ Opis: To jest repozytorium, które za zawierało komendy i linki przydatne podcz
 
 ## Pytania rekrutacyjne
 
-1. Git pytania rekrutacyjne 2024 -[link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
+1. Git pytania rekrutacyjne 2024 - [link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
